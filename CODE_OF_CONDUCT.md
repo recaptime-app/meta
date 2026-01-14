@@ -13,7 +13,7 @@ You can report abusive behavior to one of the project maintainers privately:
 
 | Maintainer username | Email | Other contact methods |
 | --- | --- | --- |
-| @your-username-here | user@host.tld | ... |
+| @ajhalili2006 | <ajhalili2006@crew.recaptime.dev> | See <https://andreijiroh.dev/contact/details> for up-to-date information. |
 
 Alternatively, you can email `conduct@recaptime.dev` (which is monitored by
 both Recap Time Squad and community maintainers as [Support Desk] tickets in

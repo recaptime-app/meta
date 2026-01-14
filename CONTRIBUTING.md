@@ -2,10 +2,15 @@
 
 ## Prerequisites
 
-Mention required dependencies, tools, or software versions needed to contribute. Also link the Linux DCO and CCoC.
+Generally speaking, by filling a issue here or contributing to the
+documentation or any projects hosted in this GitHub organization/GitLab
+subgroup, you agree to follow and abide by [the Community Code of Conduct]
+and agree to license your contributions under the same licenses as this
+project/repo per [the Linux DCO].
 
 ## Setting up devenv
 
-Include steps in setting up the development environment. This may include cloning the repository, installing dependencies, and configuring the environment.
+To be documented
 
-Alternatively, you can link to cloud development envrionments like GitHub Codespaces via their button badges.
+[the Community Code of Conduct]: CODE_OF_CONDUCT.md
+[the Linux DCO]: https://policies.recaptime.dev/community/open-source/linux-dco
